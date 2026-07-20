@@ -1,0 +1,9 @@
+{
+  "name": "node-json-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that returns details in JSON format",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
