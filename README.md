@@ -7,7 +7,7 @@ Start the sever with:
 node server.js
 Then open your browser at:
 http://localhost:3000
-<<<<<<< HEAD
-=======
+HEAD
 
->>>>>>> faebb99 (update code with corrections)
+
+faebb99 (update code with corrections)
