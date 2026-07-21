@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
   const details = {
     name: 'Muhammad Tahir Musa',
     role: 'SIWES Student',
-    email: 'muhammadtahirmusa406@email.com',
+    email: 'muhammadtahirmusa406@gmail.com',
     sex: 'Male',
     language: 'Node.js',
     status: 'Ready'
